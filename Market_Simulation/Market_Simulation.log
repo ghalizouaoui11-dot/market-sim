@@ -1,0 +1,3 @@
+2026-05-11 08:49:25,712 - __main__ - INFO - Simulation Configuration: {'seed': 42, 'num_buyers': 51, 'num_sellers': 49, 'buyer_mean_price': 110, 'seller_mean_price': 90, 'dev_instance': 15, 'rounds': 50, 'plot_results': True, 'shock_round': 25, 'shock_magnitude': 1.2}
+2026-05-11 08:49:25,716 - __main__ - INFO - Simulation Results: total trades: 970, average price: 101.39, theoretical midpoint: 100.00
+2026-05-11 08:49:26,414 - __main__ - INFO - Graph plotted
